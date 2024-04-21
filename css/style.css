@@ -1,27 +1,13 @@
-/* .container {
-    max-width: 400px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+*{
+    margin: 0;
+    padding: 0;
 }
-
-button {
-    padding: 10px 20px;
-    margin-top: 10px;
-    cursor: pointer;
-}
-
-p {
-    font-size: 18px;
-    margin-top: 20px;
-} */
 body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 100vh;
+    background: linear-gradient(150deg, #92d4a8, #dbd9e9);
 }
 .container{
     display: flex;
